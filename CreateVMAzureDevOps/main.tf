@@ -10,7 +10,7 @@ terraform {
     storage_account_name = "aviopt"
     container_name       = "avimsd"
     key                  = "terraform.tfstate"
-    access_key           = "++B7LTNi007PI+iLh/6NVOCVtNElvKryUE7PRJSwObClNOGfUixl+hjlGY2h3djKalKbHtDtnbi/+ASt79tvZA=="
+    access_key           = "***************************************************************"
   }
 }   
 
